@@ -1,0 +1,19 @@
+
+# Front-end
+
+Flask==2.2.3
+
+# General
+
+numpy==1.24.2
+matplotlib==3.7.1
+
+# Audio Processing
+
+ffmpeg==1.4
+pydub==0.25.1
+pyaudio==0.2.13
+
+# Emotion Extraction
+
+ibm-watson==7.0.0
